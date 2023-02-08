@@ -1,1 +1,1 @@
-# didactic-octo-computing-machine
+# My competition 
